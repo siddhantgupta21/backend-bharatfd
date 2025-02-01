@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# npm logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+coverage/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Operating system files
+ehthumbs.db
+Desktop.ini
+
+# Dependency directories
+bower_components/
+
+# Optional: log files
+logs/
+*.log
+
+# TypeScript
+*.tsbuildinfo
