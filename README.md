@@ -1,15 +1,14 @@
 # FAQ Backend API
 
-A multilingual FAQ management system with automatic translation support, built with Node.js, Express, MongoDB, and Redis.
+A FAQ management system with automatic translation support.
 
 ## Features
 
-- Create and manage FAQs with rich text support
+- Create and manage FAQs with rich text support(CkEditor)
 - Automatic translation to multiple languages
 - Redis caching for improved performance
 - RESTful API endpoints
 - Rich text editor interface
-- Docker support for easy deployment
 
 ## Tech Stack
 
