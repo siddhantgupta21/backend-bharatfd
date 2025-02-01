@@ -76,7 +76,7 @@ Before starting, ensure that you have the following installed:
 ### Get FAQs
 - **GET** `/api/faqs`
 - **Query Parameters:**
-    - `lang`: Language code (e.g., `'hi'` for Hindi, `'es'` for Spanish)
+    - `lang`: Language code (e.g., `'hi'` for Hindi, `'bn'` for Spanish)
 - **Response:** `200 OK`
 
 ## Supported Languages
